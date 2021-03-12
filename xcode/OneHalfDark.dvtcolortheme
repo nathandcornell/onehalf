@@ -23,7 +23,7 @@
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>Menlo-Bold - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.156863 0.172549 0.203922 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.862745 0.874510 0.894118 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -33,7 +33,7 @@
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.220706 0.224314 0.202667 1</string>
 	<key>DVTMarkupTextBorderColor</key>
-	<string>0.283049 0.286369 0.266453 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTMarkupTextCodeFont</key>
 	<string>Menlo-Regular - 10.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
@@ -67,7 +67,7 @@
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.SFNSText-Bold - 10.0</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.156863 0.172549 0.203922 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>

@@ -16,12 +16,12 @@
 	Purple: #c678dd
 	Cyan: #56b6c2
 	White: #dcdfe4
-	Black: #282c34
+	Black: #000000
 	Fg: #dcdfe4
-	Bg: #282c34
+	Bg: #000000
 	Comment: #5c6370
 	Gutter foreground: #919baa
-	Gutter background: #282c34
+	Gutter background: #000000
 	Selection: #474e5d
 -->
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -49,13 +49,13 @@
 				<key>foreground</key>
 				<string>#dcdfe4</string>
 				<key>background</key>
-				<string>#282c34</string>
+				<string>#000000</string>
 				<key>bracketsOptions</key>
 				<string>underline</string>
 				<key>caret</key>
 				<string>#a3b3cc</string>
 				<key>gutter</key>
-				<string>#282c34</string>
+				<string>#000000</string>
 				<key>gutterForeground</key>
 				<string>#919baa</string>
 				<key>invisibles</key>
